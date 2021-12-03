@@ -1,0 +1,12 @@
+# Default ignored files
+/.idea/workspace.xml
+/out/
+/.idea/misc.xml
+/.idea/modules.xml
+/spring-security.iml
+/workspace.xml
+/vcs.xml
+/.idea/vcs.xml
+/.idea/.gitignore
+.idea/
+.target
